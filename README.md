@@ -27,6 +27,7 @@ Our vision is to create a decentralized platform where artists and supporters ca
 'STS44256CMB87WYHA9YPJJ11MFEKFH456S21S21B.charity-nft-collection'
 
 ## 6. Contract 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8af30bb-515a-4ee8-94b6-ed3a6b69ba18" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03473ee8-c4d2-4cdf-813e-e041d4477d36" />
+
 
 
