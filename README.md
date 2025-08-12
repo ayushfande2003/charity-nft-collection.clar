@@ -24,7 +24,9 @@ Our vision is to create a decentralized platform where artists and supporters ca
 - Front-end interface for easier minting and donation tracking.
 
 ## 5. Contract Adress
-
+'STS44256CMB87WYHA9YPJJ11MFEKFH456S21S21B.charity-nft-collection'
 
 ## 6. Contract 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3394c894-874f-4252-a914-bc401e74ea6a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8af30bb-515a-4ee8-94b6-ed3a6b69ba18" />
+
+
